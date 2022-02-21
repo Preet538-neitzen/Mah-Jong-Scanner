@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Preet538-neitzen/Mah-Jong-Scanner/static/css/main.8bb85460.chunk.css",
+    "main.js": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/main.820f10ec.chunk.js",
+    "main.js.map": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/main.820f10ec.chunk.js.map",
+    "runtime-main.js": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/runtime-main.4ae23177.js",
+    "runtime-main.js.map": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/runtime-main.4ae23177.js.map",
+    "static/js/2.fb8d799d.chunk.js": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/2.fb8d799d.chunk.js",
+    "static/js/2.fb8d799d.chunk.js.map": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/2.fb8d799d.chunk.js.map",
+    "static/js/3.a21f4886.chunk.js": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/3.a21f4886.chunk.js",
+    "static/js/3.a21f4886.chunk.js.map": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/3.a21f4886.chunk.js.map",
+    "index.html": "/Preet538-neitzen/Mah-Jong-Scanner/index.html",
+    "static/css/main.8bb85460.chunk.css.map": "/Preet538-neitzen/Mah-Jong-Scanner/static/css/main.8bb85460.chunk.css.map",
+    "static/js/2.fb8d799d.chunk.js.LICENSE.txt": "/Preet538-neitzen/Mah-Jong-Scanner/static/js/2.fb8d799d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ae23177.js",
+    "static/js/2.fb8d799d.chunk.js",
+    "static/css/main.8bb85460.chunk.css",
+    "static/js/main.820f10ec.chunk.js"
+  ]
+}
