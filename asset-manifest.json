@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mah-Jong-Scanner/static/css/main.8bb85460.chunk.css",
-    "main.js": "/Mah-Jong-Scanner/static/js/main.03c890f5.chunk.js",
-    "main.js.map": "/Mah-Jong-Scanner/static/js/main.03c890f5.chunk.js.map",
+    "main.js": "/Mah-Jong-Scanner/static/js/main.c7d9c889.chunk.js",
+    "main.js.map": "/Mah-Jong-Scanner/static/js/main.c7d9c889.chunk.js.map",
     "runtime-main.js": "/Mah-Jong-Scanner/static/js/runtime-main.9122b368.js",
     "runtime-main.js.map": "/Mah-Jong-Scanner/static/js/runtime-main.9122b368.js.map",
     "static/js/2.eaa8ca1c.chunk.js": "/Mah-Jong-Scanner/static/js/2.eaa8ca1c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9122b368.js",
     "static/js/2.eaa8ca1c.chunk.js",
     "static/css/main.8bb85460.chunk.css",
-    "static/js/main.03c890f5.chunk.js"
+    "static/js/main.c7d9c889.chunk.js"
   ]
 }
